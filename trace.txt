@@ -1,0 +1,254 @@
+ELECTION 'Euro 2024'
+Candidat n°0 : X nel 5
+Candidat n°1 : Y rik 2
+Candidat n°2 : Z pat 8
+
+BUREAU n°310
+LISTE ELECTORALE
+A bic (0)
+B gad (1)
+C ann (2)
+D pol (3)
+E lam (4)
+F bul (5)
+G yap (6)
+X nel (7)
+Y rik (8)
+Z pat (9)
+
+PREPARATION DECHARGE
+X nel : 10 bulletins
+Y rik : 10 bulletins
+Z pat : 10 bulletins
+
+OUVERTURE BUREAU n°310
+TMAX = 20
+
+T = 1
+T = 2
+T = 3
+   ENTREE
+      4 entre
+   DECHARGE
+      4 entre
+T = 4
+   ENTREE
+      8 entre
+T = 5
+   DECHARGE
+      4 prend Y rik
+      4 prend Z pat
+      4 prend X nel
+   ENTREE
+      3 entre
+T = 6
+   DECHARGE
+      4 sort
+   ISOLOIR
+      4 entre
+T = 7
+   DECHARGE
+      8 entre
+   ENTREE
+      2 entre
+T = 8
+T = 9
+   DECHARGE
+      8 prend Z pat
+      8 prend Y rik
+T = 10
+   DECHARGE
+      8 sort
+   ISOLOIR
+      8 entre
+T = 11
+   DECHARGE
+      3 entre
+   ENTREE
+      1 entre
+T = 12
+   ISOLOIR
+      4 choisit Y rik
+      4 sort
+   VOTE
+      4 entre
+T = 13
+   DECHARGE
+      3 prend Y rik
+T = 14
+   DECHARGE
+      3 sort
+   VOTE
+      4 vote
+   ISOLOIR
+      3 entre
+T = 15
+   DECHARGE
+      2 entre
+   ENTREE
+      6 entre
+T = 16
+   ISOLOIR
+      8 choisit Z pat
+      8 sort
+T = 17
+   DECHARGE
+      2 prend X nel
+      2 prend Z pat
+   VOTE
+      4 sort
+   SORTIE
+      4 sort
+T = 18
+   DECHARGE
+      2 sort
+   VOTE
+      8 entre
+   ISOLOIR
+      2 entre
+T = 19
+   DECHARGE
+      1 entre
+   ENTREE
+      5 entre
+
+FERMETURE ENTREE
+
+T = 20
+   ISOLOIR
+      3 choisit Y rik
+      3 sort
+   VOTE
+      8 vote
+T = 21
+   DECHARGE
+      1 prend X nel
+      1 prend Y rik
+T = 22
+   DECHARGE
+      1 sort
+   ISOLOIR
+      1 entre
+T = 23
+   DECHARGE
+      6 entre
+   VOTE
+      8 sort
+   SORTIE
+      8 sort
+T = 24
+   ISOLOIR
+      2 choisit Z pat
+      2 sort
+   VOTE
+      3 entre
+T = 25
+   DECHARGE
+      6 prend Z pat
+      6 prend X nel
+T = 26
+   DECHARGE
+      6 sort
+   VOTE
+      3 vote
+   ISOLOIR
+      6 entre
+T = 27
+   DECHARGE
+      5 entre
+T = 28
+   ISOLOIR
+      1 choisit X nel
+      1 sort
+T = 29
+   DECHARGE
+      5 prend X nel
+      5 prend Y rik
+   VOTE
+      3 sort
+   SORTIE
+      3 sort
+T = 30
+   DECHARGE
+      5 sort
+   VOTE
+      2 entre
+   ISOLOIR
+      5 entre
+T = 31
+T = 32
+   ISOLOIR
+      6 choisit Z pat
+      6 sort
+   VOTE
+      2 vote
+T = 33
+T = 34
+T = 35
+   VOTE
+      2 sort
+   SORTIE
+      2 sort
+T = 36
+   ISOLOIR
+      5 choisit Y rik
+      5 sort
+   DECHARGE
+   ISOLOIR
+   VOTE
+      1 entre
+T = 37
+T = 38
+   VOTE
+      1 vote
+T = 39
+T = 40
+T = 41
+   VOTE
+      1 sort
+   SORTIE
+      1 sort
+T = 42
+   VOTE
+      6 entre
+T = 43
+T = 44
+   VOTE
+      6 vote
+T = 45
+T = 46
+T = 47
+   VOTE
+      6 sort
+   SORTIE
+      6 sort
+T = 48
+   VOTE
+      5 entre
+T = 49
+T = 50
+   VOTE
+      5 vote
+T = 51
+T = 52
+T = 53
+   VOTE
+      5 sort
+   SORTIE
+      5 sort
+
+FERMETURE BUREAU n°310
+
+
+Bureau n°310 :  RESULTATS Euro 2024
+PRESIDENT : C ann
+    nb electeurs : 10
+    nb votes : 7
+    partitipation : 70%
+    abstention : 30%
+    nul : 0 (0%)
+    blanc : 0 (0%)
+    Z pat : 3 (43%)
+    Y rik : 3 (43%)
+    X nel : 1 (14%)
+
